@@ -41,3 +41,37 @@ A Next Level Week, ou NLW, foi um um evento realizado pela Rocketseat no qual du
 Foram cinco dias de produção com o objetivo de construir esta aplicação de cadastro e consulta de pontos de coleta nas cidades. Durante este processo
 os estudantes entraram em contato com Html, Css e JavaScript no front-end, além de Node.js e SQL  para o back-end
 
+## 💾️ Download e Teste
+
+-  Instalar o [Git](https://git-scm.com/), [NodeJS](https://nodejs.org/pt-br/download/) + [npm](https://www.npmjs.com/get-npm):
+
+```bash
+# Versões mínimas ou superiores.
+$ node -v
+v12.18.0
+
+$ npm -v
+6.14.4
+```
+
+```bash
+# Clonar o repositório
+$ git clone https://github.com/jeanmontt/NLW-1.0.git
+
+#Entrar no diretório
+$ cd NLW-1.0
+
+#Instalar as dependências
+$ npm install
+
+#Iniciar o local host
+$ npm start
+```
+
+- Por ultimo abra seu navegador e digite:
+
+```
+localhost:3000
+```
+
+---
