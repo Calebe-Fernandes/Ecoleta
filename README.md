@@ -56,7 +56,7 @@ $ npm -v
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/jeanmontt/NLW-1.0.git
+$ git clone https://github.com/Calebe-Fernandes/Ecoleta
 
 #Entrar no diretório
 $ cd NLW-1.0
