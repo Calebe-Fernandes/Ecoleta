@@ -59,7 +59,7 @@ $ npm -v
 $ git clone https://github.com/Calebe-Fernandes/Ecoleta
 
 #Entrar no diretório
-$ cd NLW-1.0
+$ cd Ecoleta
 
 #Instalar as dependências
 $ npm install
