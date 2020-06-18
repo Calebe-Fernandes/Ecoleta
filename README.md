@@ -10,10 +10,10 @@ Projeto Ecoleta
 
 <h1 align="center">
 <div>
-  <img src="https://github.com/Calebe-Fernandes/Ecoleta/blob/master/printscreen/Home.jpg" alt="page-home" height="500" width = "700">
-   <img src="https://github.com/Calebe-Fernandes/Ecoleta/blob/master/printscreen/Pesquisa%20de%20Pontos.jpg" alt="search" height="500" widith="700">
-  <img src="https://github.com/Calebe-Fernandes/Ecoleta/blob/master/printscreen/resultados%20da%20pesquisa.jpg" alt="search-results" height="500" width="700">
-  <img src="https://github.com/Calebe-Fernandes/Ecoleta/blob/master/printscreen/Cadastro%20de%20Pontos.jpg" alt="create-point" height="500" width ="700">
+  <img src="https://github.com/Calebe-Fernandes/Ecoleta/blob/master/printscreen/Home.jpg" alt="page-home" height="250" width = "400">
+   <img src="https://github.com/Calebe-Fernandes/Ecoleta/blob/master/printscreen/Pesquisa%20de%20Pontos.jpg" alt="search" height="250" widith="400">
+  <img src="https://github.com/Calebe-Fernandes/Ecoleta/blob/master/printscreen/resultados%20da%20pesquisa.jpg" alt="search-results" height="250" width="400">
+  <img src="https://github.com/Calebe-Fernandes/Ecoleta/blob/master/printscreen/Cadastro%20de%20Pontos.jpg" alt="create-point" height="250" width ="400">
 </div>
 
 </h1>
